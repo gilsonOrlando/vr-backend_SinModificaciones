@@ -1,0 +1,6 @@
+projectKey=vr-backen_inicio
+serverUrl=http://localhost:9000
+serverVersion=10.6.0.92116
+dashboardUrl=http://localhost:9000/dashboard?id=vr-backen_inicio
+ceTaskId=3c4ecd72-1327-48a9-891c-79efd9497470
+ceTaskUrl=http://localhost:9000/api/ce/task?id=3c4ecd72-1327-48a9-891c-79efd9497470
